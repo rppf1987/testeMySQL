@@ -19,4 +19,4 @@ mysql -u root -p (password) databasename < employees.sql
 
 Pronto, o server já está funcionando e pronto para ser acessado pelo jar ConnectMySQL.jar
 
-Para rodar java -jar ConnectMySQL.jar
+Para rodar: java -jar ConnectMySQL.jar
